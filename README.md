@@ -14,6 +14,15 @@ A command-line interface (CLI) tool to manage tasks. You can add, update, delete
 - **Project Folder**: [`task-tracker-cli`](./task-tracker-cli)
 - **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli](https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli)
 
+### 2. [GitHub User Activity CLI](./github-user-activity)
+
+A command-line tool to fetch and display recent GitHub activity for any user. Shows different types of activities like commits, issues, pull requests, and repository stars with emoji-based output.
+
+- **Tech**: Go, GitHub API
+- **Topics**: HTTP requests, JSON parsing, API integration, CLI output formatting
+- **Project Folder**: [`github-user-activity`](./github-user-activity)
+- **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity](https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity)
+
 > _More projects coming soon..._
 
 ## 🛠️ Tools Used
