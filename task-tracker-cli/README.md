@@ -2,6 +2,10 @@
 
 A simple command-line tool written in Go to manage your daily tasks. It allows you to add, update, delete, and track task progress directly from the terminal. Tasks are stored in a local JSON file.
 
+## 🔗 Assignment URL
+
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## 🔗 Project URL
 
 [https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli](https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli)
