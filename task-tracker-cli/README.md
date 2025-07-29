@@ -4,7 +4,7 @@ A simple command-line tool written in Go to manage your daily tasks. It allows y
 
 ## 🔗 Project URL
 
-[https://github.com/RR-Sahoo/go-practice.git](https://github.com/RR-Sahoo/go-practice.git)
+[https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli](https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli)
 
 ---
 

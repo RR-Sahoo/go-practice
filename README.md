@@ -10,7 +10,7 @@ A command-line interface (CLI) tool to manage tasks. You can add, update, delete
 
 - **Tech**: Go (no external libraries)
 - **Topics**: CLI arguments, JSON file handling, task management logic
-- **URL**: [https://github.com/your-username/go-practice/tree/main/task-tracker-cli](https://github.com/your-username/go-practice/tree/main/task-tracker-cli)
+- **URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli](https://github.com/RR-Sahoo/go-practice/tree/main/task-tracker-cli)
 
 > _More projects coming soon..._
 
