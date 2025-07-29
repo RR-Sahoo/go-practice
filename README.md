@@ -20,6 +20,7 @@ A command-line tool to fetch and display recent GitHub activity for any user. Sh
 
 - **Tech**: Go, GitHub API
 - **Topics**: HTTP requests, JSON parsing, API integration, CLI output formatting
+- **Assignment URL**: [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
 - **Project Folder**: [`github-user-activity`](./github-user-activity)
 - **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity](https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity)
 
