@@ -24,6 +24,16 @@ A command-line tool to fetch and display recent GitHub activity for any user. Sh
 - **Project Folder**: [`github-user-activity`](./github-user-activity)
 - **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity](https://github.com/RR-Sahoo/go-practice/tree/main/github-user-activity)
 
+### 3. [Expense Tracker CLI](./expense-tracker)
+
+A command-line tool to track and manage daily expenses. Add expenses with descriptions and amounts, list all entries, and view spending summaries with persistent CSV storage.
+
+- **Tech**: Go, CSV file handling
+- **Topics**: Flag parsing, CSV read/write, data persistence, expense calculations
+- **Assignment URL**: [https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/expense-tracker)
+- **Project Folder**: [`expense-tracker`](./expense-tracker)
+- **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/expense-tracker](https://github.com/RR-Sahoo/go-practice/tree/main/expense-tracker)
+
 > _More projects coming soon..._
 
 ## 🛠️ Tools Used
