@@ -34,6 +34,16 @@ A command-line tool to track and manage daily expenses. Add expenses with descri
 - **Project Folder**: [`expense-tracker`](./expense-tracker)
 - **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/expense-tracker](https://github.com/RR-Sahoo/go-practice/tree/main/expense-tracker)
 
+### 4. [Number Guessing Game](./number-guessing-game)
+
+An interactive console game where players guess a random number with different difficulty levels. Features multiple difficulty settings, attempt tracking, and hints to guide players.
+
+- **Tech**: Go (no external libraries)
+- **Topics**: User input handling, random number generation, game logic, loops and conditionals
+- **Assignment URL**: [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
+- **Project Folder**: [`number-guessing-game`](./number-guessing-game)
+- **GitHub URL**: [https://github.com/RR-Sahoo/go-practice/tree/main/number-guessing-game](https://github.com/RR-Sahoo/go-practice/tree/main/number-guessing-game)
+
 > _More projects coming soon..._
 
 ## 🛠️ Tools Used
